@@ -1,12 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm VIVEK RAI</h1>
 <h3 align="center">A PROGRAMMER WHO QUERIES ABOUT TECH AND LEARN EVERTING ABOUT TECHNOLOGY</h3>
-<img align="right" alt="coding img" width="400" src="https://drive.google.com/file/d/1mprf9FBQJXoMob-FGsB7uXyz3k0mHeR0/view?usp=sharing">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekrai2098&label=Profile%20views&color=0e75b6&style=flat" alt="vivekrai2098" /> </p>
+<center><img alt="coding img" width="2000" height="600" src="https://i.pinimg.com/originals/bc/98/c9/bc98c9dcc76893a46fc71f3920846a05.gif"></center>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekrai2098" alt="vivekrai2098" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/vivek rai" target="blank"><img src="https://img.shields.io/twitter/follow/vivek rai?logo=twitter&style=for-the-badge" alt="vivek rai" /></a> </p>
 
 - 🔭 I’m currently working on **Python project**
 
@@ -24,9 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vivek rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivek rai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vivek rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek rai" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vivek rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vivek rai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vivekrai2098" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek rai" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCiYVSS5v7Gfn2nWuNoxX-IA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vivek rai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
