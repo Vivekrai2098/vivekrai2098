@@ -2,10 +2,7 @@
 <h1 align="center">Hello World, I'm VIVEK RAI</h1>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-<h3 align="center">A PROGRAMMER WHO QUERIES ABOUT TECH AND LEARN EVERTING ABOUT TECHNOLOGY</h3>
-<center><img alt="coding img" width="2000" height="600" src="https://i.pinimg.com/originals/bc/98/c9/bc98c9dcc76893a46fc71f3920846a05.gif" class="img-fluid"></center>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivekrai2098" alt="vivekrai2098" /></a> </p>
+![name](https://user-images.githubusercontent.com/94076044/183300211-00d39fd7-df89-470e-8e47-9b28956e2037.gif)
 
 - 🔭 I’m currently working on **Python project**
 
