@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **django,flask**
 
-- 👨‍💻 All of my projects are available at [github.com/vivekrai2098](github.com/vivekrai2098)
+- 👨‍💻 All of my projects are available at [github.com/vivekrai2098](https://github.com/Vivekrai2098?tab=repositories)
 
 - 💬 Ask me about **Frontend & Backend**
 
