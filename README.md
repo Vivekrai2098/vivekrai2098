@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **vivekrai2098@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B0npwLEV_vR9ob7IJHDU77UXYzF7nVRc/view](https://drive.google.com/file/d/1yNB2sOBQWc2spT3U-q43LKoPzubysRYD/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1B0npwLEV_vR9ob7IJHDU77UXYzF7nVRc/view](https://drive.google.com/file/d/1tiTtYiP6EO1_S0MyB0-DCrGmEujM63V5/view)
 
 - ⚡ Fun fact **why the learning process is so slow ??? can we do fast ?**
 
